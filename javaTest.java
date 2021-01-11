@@ -1,5 +1,5 @@
 public static void main(Strings[] args) {
-		// 精确到毫秒
+		// 精确到毫秒sssssss
         // 获取当前时间戳
         System.out.println(System.currentTimeMillis());
         System.out.println(Calendar.getInstance().getTimeInMillis());
