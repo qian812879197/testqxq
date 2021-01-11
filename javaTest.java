@@ -5,7 +5,7 @@ public static void main(Strings[] args) {
         System.out.println(Calendar.getInstance().getTimeInMillis());
         System.out.println(new Date().getTime());
 
-        // 精确到秒
+        // 精确到秒xxxxxx
         // 获取当前时间戳
         System.out.println(System.currentTimeMillis() / 1000);
         System.out.println(Calendar.getInstance().getTimeInMillis() / 1000);
